@@ -10,6 +10,7 @@ h2{
 p{
     text-align: center;
 }
-p a{
+a{
     margin:10px;
+    text-align: center;
 }
