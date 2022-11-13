@@ -1,18 +1,9 @@
 body{
     background: wheat;
-}
-h1{
-    text-align: center;
-}
-h2{
-    text-align: center;
-}
-p{
     text-align: center;
 }
 a{
     margin:10px;
-    text-align: center;
 }
 .croissant{
     max-width: 100%;
